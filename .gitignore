@@ -1,0 +1,5 @@
+# Python's set-up, created by run_esap.bat on the first run
+.venv/
+__pycache__/
+# Word's temporary lock files
+~$*
